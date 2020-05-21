@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+A sports analytics mHealth app
 
-You can use the [editor on GitHub](https://github.com/Creepo/eValuate/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Creepo/eValuate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Health and fitness apps have become ubiquitous as smart devices become a major necessity in the day-to-day life. However, an obvious issue with mobile health (mHealth) apps is that a substantial portion of them lack a scientific foundation and instead utilize experiential stratagems. Hence, the acquired data becomes unreliable. In sports, where data collection is extensive, this becomes a vital factor for success due to the increasing usage of mHealth. Therefore, the Swedish School of Sport and Health Sciences has, in collaboration with other organizations, created the Perceived Load and Fitness Scale Questionnaire. The purpose of this questionnaire is to function as a marker for overtraining and, thus injury prevention and intervention will become a simpler and more efficient task. A computer (PC) software was developed for the questionnaire; however, a mobile version was required and, thus, requested. Consequently, the mHealth prototype app eValuate was developed. Research, in the form of literature studies, and dissection of other apps for additional information contributed to the development of it. The prototype was coded using Java with Android Studio as the IDE and Cloud Firebase Firestore as a database solution. The finished prototype, eValuate, had to be trialled to ensure that it satisfies the criteria. Thus, the Mobile Application Rating Scale was employed as the most appropriate means of evaluation. A small-scale study was planned to trial the prototype by utilizing this scale. However, due to unforeseen events, only four respondents could provide feedback. The prototype performed admirably and scored 3.8 stars out of 5 stars. Nonetheless, the testing sample is too small to draw any real conclusions. 
