@@ -9,7 +9,7 @@ Here you'll find all the related files and information needed, such as the repor
 
 Members | Task
 ------- | ----
-Ala Abed (aabed@kth.se) | Developer
+Ala (aabed@kth.se) | Developer
 
 ## Table of Contents
 
@@ -32,7 +32,10 @@ Coming soon...
 
 ## Flowchart
 
+Coach navigation flow
 ![Coach flowchart](https://github.com/Creepo/eValuate/blob/master/Flowchart%20coach.jpg)
+
+Player navigation flow
 ![Player flowchart](https://github.com/Creepo/eValuate/blob/master/Flowchart%20player.jpg)
 
 ## Demo
