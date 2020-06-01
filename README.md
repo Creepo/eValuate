@@ -27,7 +27,7 @@ Therefore, the _Swedish School of Sport and Health Sciences_ has, in collaborati
 
 Thus, the _Mobile Application Rating Scale_ was employed as the most appropriate means of evaluation. A small-scale study was planned to trial the prototype by utilizing this scale. However, due to unforeseen events, only four respondents could provide feedback. The prototype performed admirably and scored 3.8 stars out of 5 stars. Nonetheless, the testing sample is too small to draw any real conclusions.
 
-##Report
+## Report
 Coming soon...
 
 ## Flowchart
