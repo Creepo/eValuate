@@ -41,5 +41,4 @@ Coming soon...
 
 ## Source code
 
-Visit the GitHub page for the code. 
-Heart rate monitor courtsy of phisman3579
+Visit the [GitHub](https://github.com/Creepo/eValuate) page for the code. 
