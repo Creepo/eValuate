@@ -32,3 +32,14 @@ Coming soon...
 
 ## Flowchart
 
+![Coach flowchart](https://github.com/Creepo/eValuate/blob/master/Flowchart%20coach.jpg)
+![Player flowchart](https://github.com/Creepo/eValuate/blob/master/Flowchart%20player.jpg)
+
+## Demo
+
+Coming soon...
+
+## Source code
+
+Visit the GitHub page for the code. 
+Heart rate monitor courtsy of phisman3579
