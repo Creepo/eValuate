@@ -33,9 +33,11 @@ Coming soon...
 ## Flowchart
 
 Coach navigation flow
+
 ![Coach flowchart](https://github.com/Creepo/eValuate/blob/master/Flowchart%20coach.jpg)
 
 Player navigation flow
+
 ![Player flowchart](https://github.com/Creepo/eValuate/blob/master/Flowchart%20player.jpg)
 
 ## Demo
