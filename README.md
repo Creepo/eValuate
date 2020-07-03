@@ -34,11 +34,11 @@ The report can be found in pdf format with this [link](https://drive.google.com/
 
 Coach navigation flow
 
-![Coach flowchart](https://github.com/Creepo/eValuate/resources/blob/master/Flowchart%20coach.jpg)
+![Coach flowchart](https://github.com/Creepo/eValuate/blob/master/resources/Flowchart%20coach.jpg)
 
 Player navigation flow
 
-![Player flowchart](https://github.com/Creepo/eValuate/resources/blob/master/Flowchart%20player.jpg)
+![Player flowchart](https://github.com/Creepo/eValuate/blob/master/resources/Flowchart%20player.jpg)
 
 ## Demo
 Coach
