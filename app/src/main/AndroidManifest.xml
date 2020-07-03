@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.exjobb.evaluate">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.flash" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".activities.StatisticsTeamActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName=".activities.StartScreenCoachActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.StatisticsPlayerActivity"
+            android:launchMode="singleTop"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.PlayerEditActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName=".activities.ListOfPlayersActivity" />
+        <activity
+            android:name=".activities.PlayerInfoActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName=".activities.ListOfPlayersActivity" />
+        <activity
+            android:name=".activities.PlayerCreateActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName=".activities.ListOfPlayersActivity" />
+        <activity
+            android:name=".activities.ListOfPlayersActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName=".activities.StartScreenCoachActivity" />
+        <activity
+            android:name=".activities.StartScreenCoachActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".survey.plfsq.QuizResultPageContent"
+            android:launchMode="singleTop"
+            android:parentActivityName=".activities.StartScreenPlayerActivity" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion15Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion14Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion14Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion13Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion13Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion12Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion12Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion11Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion11Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion10Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion10Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion09Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion09Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion08Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion08Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion07Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion07Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion06Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion06Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion05Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion05Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion04Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion04Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion03Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion03Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion02Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion02Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".survey.plfsq.QuizQuestion01Content" />
+        <activity
+            android:name=".survey.plfsq.QuizQuestion01Content"
+            android:launchMode="singleTop"
+            android:parentActivityName=".activities.ListOfQuizzesActivity" />
+        <activity
+            android:name=".activities.ListOfQuizzesActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName=".activities.StartScreenPlayerActivity" />
+        <activity
+            android:name=".activities.StartScreenPlayerActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activities.MainActivity"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

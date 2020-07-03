@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608149471690",
+    "firebase_url": "https://evalapp-4c9ee.firebaseio.com",
+    "project_id": "evalapp-4c9ee",
+    "storage_bucket": "evalapp-4c9ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608149471690:android:ce4f9ff3c6a8d53dcbcf33",
+        "android_client_info": {
+          "package_name": "com.exjobb.evaluate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608149471690-sglb9ib0rukb7ejh3q7pdo6dkmu5l7m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exjobb.evaluate",
+            "certificate_hash": "f0d20454760a14fb90c8dc0cf17a3f37eab844d0"
+          }
+        },
+        {
+          "client_id": "608149471690-8p1flnjmn7efe7vie1426vj2adeb0g1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYAwulF-lV0hpaEuaipLjG4F58qyUu5_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608149471690-8p1flnjmn7efe7vie1426vj2adeb0g1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

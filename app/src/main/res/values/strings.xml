@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">eValuate</string>
+
+    <string name="sms_register">Dear %1$s,
+        \nYou have been registered for the sports analytical app - eValuate.
+        \nLogin with: %2$s
+        \nQuestions? Contact %3$s</string>
+    <string name="sms_update">%1$s has successfully completed the survey on %2$s of %3$s
+    \nScore: %4$.2f</string>
+
+    <!--    quiz answers-->
+    <string name="much_better_than_normal">Much better than normal</string>
+    <string name="better_than_normal">Better than normal</string>
+    <string name="normal_state">Normal</string>
+    <string name="worse_than_normal">Worse than normal</string>
+    <string name="much_worse_than_normal">Much worse than normal</string>
+
+    <!--    quiz result sections -->
+    <string name="psychological_score">Psychological score: %1$.2f</string>
+    <string name="psychophysiological_score">Psychophysiological score: %1$.2f</string>
+    <string name="physiological_score">Physiological score: %1$.2f</string>
+    <string name="physiological_medical_score">Physiological-medical score: %1$.2f</string>
+    <string name="health_is">Current health is %1$s. %2$s</string>
+
+    <string name="welcome_msg">Welcome, %1$s</string>
+    <string name="next">Next</string>
+
+    <!--    quiz questions-->
+    <string name="bf_scale_question_one">Question: How is your motivation to train?</string>
+    <string name="bf_scale_question_two">Question: How are your excitement and happiness levels?</string>
+    <string name="bf_question_three">Question: How stressed do you feel?</string>
+    <string name="bf_question_four">Question: How refreshed and energized to you feel?</string>
+    <string name="bf_question_five">Question: How is your sleep and rest quality?</string>
+    <string name="bf_question_six">Question: How recovered do you feel?</string>
+    <string name="bf_question_seven">Question: How is your appetite and food intake?</string>
+    <string name="bf_question_eight">Question: How do you feel your explosiveness and speed levels are?</string>
+    <string name="bf_question_nine">Question: How is your endurance?</string>
+    <string name="bf_question_ten">Question: How are the pain levels in your muscles and joints?</string>
+    <string name="bf_question_eleven">Question: What is your current resting heart rate?</string>
+    <string name="bf_question_twelve">Question: What is your orthostatic pulse?</string>
+    <string name="bf_question_twelve_explanation">Orthostatic pulse is measured after going from a laying position to a sitting position</string>
+    <string name="bf_question_thirteen">Question: What is your current weight?</string>
+    <string name="bf_question_fourteen">Question: How high is your countermovement jump?</string>
+    <string name="bf_question_fifteen">Question: What is your current handgrip strength?</string>
+
+    <string name="heart_rate_howto">Hold the tip of your index finger over the camera lens of your phone
+        until you get a reading. The entire camera preview image should be red with a lighter area where the tip of your finger is touching.
+        Do not press too hard or you will cut off circulation which will result in an inaccurate reading.</string>
+
+    <string name="week">Week %1$d</string>
+
+    <string name="tab_text_1">Table</string>
+    <string name="tab_text_2">Graph</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_statistics_team">Team Statistics</string>
+
+</resources>
