@@ -28,7 +28,7 @@ Therefore, the _Swedish School of Sport and Health Sciences_ has, in collaborati
 Thus, the _Mobile Application Rating Scale_ was employed as the most appropriate means of evaluation. A small-scale study was planned to trial the prototype by utilizing this scale. However, due to unforeseen events, only four respondents could provide feedback. The prototype performed admirably and scored 3.8 stars out of 5 stars. Nonetheless, the testing sample is too small to draw any real conclusions.
 
 ## Report
-Coming soon...
+The report can be found in pdf format with this [link](https://drive.google.com/file/d/1F3rr5AGLrZTFMc6_P1ZKLaOyGC6bjAWz/view?usp=sharing)
 
 ## Flowchart
 
@@ -41,8 +41,13 @@ Player navigation flow
 ![Player flowchart](https://github.com/Creepo/eValuate/blob/master/Flowchart%20player.jpg)
 
 ## Demo
+Coach
 
-Coming soon...
+[Refer to this link](https://www.dropbox.com/s/xvm08ghpckn51a8/20-05-27-23-09-35.mp4?dl=0) to view a demo of the coach's section.
+
+Player
+
+[Refer to this link](https://www.dropbox.com/s/ulgqugrfsxmfmaj/20-05-31-23-15-57.mp4?dl=0) to view a demo of the player's section.
 
 ## Source code
 
